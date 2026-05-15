@@ -1,0 +1,6 @@
+cd ~/Desktop/PraktikaDarbas
+git status
+git remote add origin https://github.com/pratybos/praktika-Toska010.git
+git remote -v
+git branch -M main
+git pull origin main

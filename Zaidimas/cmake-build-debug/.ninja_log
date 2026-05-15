@@ -77,3 +77,5 @@
 47557	85427	8005366834003560	_deps/sfml-build/lib/libharfbuzzd.a	9b561e4fcc98b571
 85427	85983	8005367212690081	_deps/sfml-build/lib/libsfml-graphics-s-d.a	28abbdd77b83c48e
 85983	86138	8005367218247904	Zaidimas.exe	e1625eb90ef8dd93
+41	1136	8005372088385774	CMakeFiles/Zaidimas.dir/main.cpp.obj	cb796f22f7dc9c53
+1137	2373	8005372099340817	Zaidimas.exe	e1625eb90ef8dd93
