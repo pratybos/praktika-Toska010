@@ -2,7 +2,7 @@
 #include <iostream>
 // ZAIDEJAS *******************************************************************************
 // Parametrai
-float zaidejoGreitis = 100u;
+float zaidejoGreitis = 250u;
 float zaidejoPlotas = 40u;
 float zaidejoAukstis = 15u;
 // Objektas
@@ -34,7 +34,7 @@ void zaidejoJudinimas(sf::ConvexShape& figura, const sf::Vector2f& pastumimas) {
 // ZAIDEJAS *******************************************************************************
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode({1280u, 720u}), "Zaidimas");
+    sf::RenderWindow window(sf::VideoMode::getDesktopMode(), "Zaidimas", sf::Style::None);
     sf::Clock ciklas;
     Zaidejas zaidejas;
     while (window.isOpen()) {
@@ -42,6 +42,7 @@ int main()
             if (e->is<sf::Event::Closed>()) {
                 window.close();
             }
+            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Escape)) {window.close();}
         }
         const float dt = ciklas.restart().asSeconds();
         const sf::Vector2f pastumimas = zaidejoIvestis(zaidejoGreitis, dt);
