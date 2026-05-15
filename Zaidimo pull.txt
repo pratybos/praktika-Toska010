@@ -1,0 +1,4 @@
+git init
+https://github.com/pratybos/praktika-Toska010.git
+git branch -M main
+git pull origin main

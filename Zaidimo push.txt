@@ -1,0 +1,7 @@
+git init
+https://github.com/pratybos/praktika-Toska010.git
+git status
+git branch -M main
+git add .
+git commit -m "copypasta"
+git push origin main
