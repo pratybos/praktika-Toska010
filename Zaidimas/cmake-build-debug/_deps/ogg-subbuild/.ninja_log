@@ -1,0 +1,21 @@
+# ninja log v6
+3	71	8005366071598286	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	b06b948a90acc61c
+3	71	8005366071598286	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	b06b948a90acc61c
+72	2792	8005366098804932	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	75f76cd62f3bc46f
+72	2792	8005366098804932	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	75f76cd62f3bc46f
+2792	2963	8005366098880061	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3d113ef059660995
+2792	2963	8005366098880061	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3d113ef059660995
+2963	3046	8005366101343558	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	4349c43201ecc266
+2963	3046	8005366101343558	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	4349c43201ecc266
+3046	3111	8005366101999372	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	e4ab1f7e4e07db8e
+3046	3111	8005366101999372	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	e4ab1f7e4e07db8e
+3111	3175	8005366102638010	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f7468b512fa346a9
+3111	3175	8005366102638010	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	f7468b512fa346a9
+3175	3238	8005366103272545	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	a7f078200c4a79ac
+3175	3238	8005366103272545	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	a7f078200c4a79ac
+3238	3302	8005366103905373	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	30f6a439b48cbabe
+3238	3302	8005366103905373	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	30f6a439b48cbabe
+3302	3387	8005366104770617	CMakeFiles/ogg-populate-complete	51c1b081a7161384
+3302	3387	8005366104770617	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51c1b081a7161384
+3302	3387	8005366104770617	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	51c1b081a7161384
+3302	3387	8005366104770617	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	51c1b081a7161384

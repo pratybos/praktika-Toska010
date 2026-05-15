@@ -1,0 +1,21 @@
+# ninja log v6
+3	69	8005365828262414	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-mkdir	8a65a4208f9b91b7
+3	69	8005365828262414	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-mkdir	8a65a4208f9b91b7
+70	9705	8005365924618541	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-download	37943909d0afde9f
+70	9705	8005365924618541	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-download	37943909d0afde9f
+9708	9880	8005365924710253	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-update	2516f999f128f762
+9708	9880	8005365924710253	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-update	2516f999f128f762
+9880	9970	8005365927255791	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-patch	e2322bd3942bf11
+9880	9970	8005365927255791	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-patch	e2322bd3942bf11
+9970	10037	8005365927929100	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-configure	fc5a6bac45bb1249
+9970	10037	8005365927929100	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-configure	fc5a6bac45bb1249
+10037	10100	8005365928569211	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-build	b4e4f60a5d55f738
+10037	10100	8005365928569211	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-build	b4e4f60a5d55f738
+10100	10167	8005365929215395	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-install	9b75ce2da9777d12
+10100	10167	8005365929215395	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-install	9b75ce2da9777d12
+10167	10236	8005365929917862	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-test	9f1a2e98083a5fa5
+10167	10236	8005365929917862	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-test	9f1a2e98083a5fa5
+10237	10329	8005365930848809	CMakeFiles/harfbuzz-populate-complete	3d164028fb042512
+10237	10329	8005365930848809	harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-done	3d164028fb042512
+10237	10329	8005365930848809	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/CMakeFiles/harfbuzz-populate-complete	3d164028fb042512
+10237	10329	8005365930848809	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/harfbuzz-subbuild/harfbuzz-populate-prefix/src/harfbuzz-populate-stamp/harfbuzz-populate-done	3d164028fb042512

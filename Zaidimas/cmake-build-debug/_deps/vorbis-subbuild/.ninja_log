@@ -1,0 +1,21 @@
+# ninja log v6
+3	68	8005366294034845	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	a0124fe9b09edc4c
+3	68	8005366294034845	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	a0124fe9b09edc4c
+69	3750	8005366330850096	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	bfe70e843428a546
+69	3750	8005366330850096	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	bfe70e843428a546
+3753	3924	8005366330952475	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f5b64368036fc43c
+3753	3924	8005366330952475	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f5b64368036fc43c
+3924	4013	8005366333484886	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	3ab9d2c278f7334a
+3924	4013	8005366333484886	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	3ab9d2c278f7334a
+4013	4077	8005366334117824	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	4853727adb38893a
+4013	4077	8005366334117824	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	4853727adb38893a
+4077	4140	8005366334756684	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	1aefbee624b4fc40
+4077	4140	8005366334756684	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	1aefbee624b4fc40
+4140	4203	8005366335381687	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	315d3c36f77887df
+4140	4203	8005366335381687	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	315d3c36f77887df
+4203	4267	8005366336020275	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	e13f56eed3ad9223
+4203	4267	8005366336020275	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	e13f56eed3ad9223
+4267	4359	8005366336940838	CMakeFiles/vorbis-populate-complete	46321a53d184dd33
+4267	4359	8005366336940838	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	46321a53d184dd33
+4267	4359	8005366336940838	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	46321a53d184dd33
+4267	4359	8005366336940838	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	46321a53d184dd33

@@ -1,0 +1,21 @@
+# ninja log v6
+3	70	8005365714131168	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	3f096eb45d6d9607
+3	70	8005365714131168	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	3f096eb45d6d9607
+70	10334	8005365816770703	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	1f8090fae4c7c6e4
+70	10334	8005365816770703	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	1f8090fae4c7c6e4
+10342	10514	8005365816913719	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	cdc072fcf36e201c
+10342	10514	8005365816913719	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	cdc072fcf36e201c
+10514	10594	8005365819372302	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	e99e506517cb1eed
+10514	10594	8005365819372302	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	e99e506517cb1eed
+10594	10658	8005365820011695	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	9edbcb66fe4a18f3
+10594	10658	8005365820011695	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	9edbcb66fe4a18f3
+10658	10721	8005365820637695	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	7339a9dfeefe9268
+10658	10721	8005365820637695	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	7339a9dfeefe9268
+10721	10787	8005365821300764	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	a42105cc1ef7765f
+10721	10787	8005365821300764	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	a42105cc1ef7765f
+10787	10860	8005365822011549	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	11e986c4819a9443
+10787	10860	8005365822011549	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	11e986c4819a9443
+10861	10956	8005365822994704	CMakeFiles/freetype-populate-complete	9297417495bf204c
+10861	10956	8005365822994704	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9297417495bf204c
+10861	10956	8005365822994704	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	9297417495bf204c
+10861	10956	8005365822994704	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	9297417495bf204c

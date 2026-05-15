@@ -1,0 +1,21 @@
+# ninja log v6
+4	77	8005366025555264	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-mkdir	acdde1a189ec46e6
+4	77	8005366025555264	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-mkdir	acdde1a189ec46e6
+78	3516	8005366059973441	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-download	20790456dc464c4c
+78	3516	8005366059973441	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-download	20790456dc464c4c
+3519	3699	8005366060051633	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-update	a48fb2f929db082e
+3519	3699	8005366060051633	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-update	a48fb2f929db082e
+3699	3783	8005366062635716	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-patch	441d0a8fab2c1f1c
+3699	3783	8005366062635716	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-patch	441d0a8fab2c1f1c
+3783	3849	8005366063301383	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-configure	576504968dc2ff87
+3783	3849	8005366063301383	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-configure	576504968dc2ff87
+3850	3912	8005366063931126	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-build	ad1ebe75968f06f
+3850	3912	8005366063931126	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-build	ad1ebe75968f06f
+3912	3976	8005366064561519	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-install	3394d0f90e27aef6
+3912	3976	8005366064561519	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-install	3394d0f90e27aef6
+3976	4042	8005366065205494	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-test	e8f79863b489c424
+3976	4042	8005366065205494	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-test	e8f79863b489c424
+4042	4130	8005366066099521	CMakeFiles/sheenbidi-populate-complete	838d9f4b1ae77ca8
+4042	4130	8005366066099521	sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-done	838d9f4b1ae77ca8
+4042	4130	8005366066099521	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/CMakeFiles/sheenbidi-populate-complete	838d9f4b1ae77ca8
+4042	4130	8005366066099521	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/sheenbidi-subbuild/sheenbidi-populate-prefix/src/sheenbidi-populate-stamp/sheenbidi-populate-done	838d9f4b1ae77ca8

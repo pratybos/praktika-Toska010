@@ -1,0 +1,21 @@
+# ninja log v6
+3	69	8005366177848391	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	70942ab62f322e23
+3	69	8005366177848391	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	70942ab62f322e23
+69	3223	8005366209383232	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	b2a6d61bb2c297de
+69	3223	8005366209383232	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	b2a6d61bb2c297de
+3223	3394	8005366209457549	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	95762ef0bc1056a9
+3223	3394	8005366209457549	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	95762ef0bc1056a9
+3394	3480	8005366211968841	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	f816c4edbbbf8a91
+3394	3480	8005366211968841	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	f816c4edbbbf8a91
+3480	3543	8005366212588828	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	26e8d30a770257c7
+3480	3543	8005366212588828	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	26e8d30a770257c7
+3543	3606	8005366213213939	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	2e3aeef4dbe0958e
+3543	3606	8005366213213939	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	2e3aeef4dbe0958e
+3606	3671	8005366213865255	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	6f92325309e28cf0
+3606	3671	8005366213865255	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	6f92325309e28cf0
+3671	3737	8005366214517212	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	6432bfc586484737
+3671	3737	8005366214517212	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	6432bfc586484737
+3737	3832	8005366215469904	CMakeFiles/flac-populate-complete	cec03cc261e2089
+3737	3832	8005366215469904	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	cec03cc261e2089
+3737	3832	8005366215469904	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	cec03cc261e2089
+3737	3832	8005366215469904	C:/Users/toska/Desktop/PraktikaDarbas/Zaidimas/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	cec03cc261e2089
